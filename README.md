@@ -8,7 +8,10 @@
 built with [React Native](https://facebook.github.io/react-native/)
 
 # About The App
-------
+* Report problems - tenants can quickly notify the landlord of any problem/repair needed to the property
+* Instant notification - the landlord receives instant notification when a job or problem is reported
+* Track progress - tenants have visibility of progress on issues without having to chase the landlord
+* Upload pictures of the problem - by taking pictures, landlords can easily understand the problem thus avoiding delays
 
 ### My Contribution
 Solely built the app from the ground-up for Android
