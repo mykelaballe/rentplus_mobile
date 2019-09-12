@@ -19,6 +19,10 @@ https://play.google.com/store/apps/details?id=com.recore.rentplus
 <img src="https://user-images.githubusercontent.com/22584900/64802249-d378fb80-d5bc-11e9-9db5-4076e96f701a.JPG" width="300"/>
 
 ### Screenshots
+<div style="display:inline;">
+  <img src="https://user-images.githubusercontent.com/22584900/64802692-d2949980-d5bd-11e9-87d4-31c40a315a09.JPG" width="180"/>
+  <img src="https://user-images.githubusercontent.com/22584900/64802747-ed670e00-d5bd-11e9-9ea6-ecdc3dbab3fb.png" width="180"/>
+</div>
 <img src="https://user-images.githubusercontent.com/22584900/64802482-59954200-d5bd-11e9-9fa4-0f56cdf9b8dd.jpg"/>
 
 ### Notable Features
